@@ -1,4 +1,4 @@
-<h1>Jung Sa<br/><a href="https://github.com/HanenJMS">Programmer, aspiring FullStack Developer, Software Engineer</a></h1>
+<h1>Jung Sa<br/><a href="https://github.com/HanenJMS">Programmer, aspiring FullStack Developer, Software Engineer, Game Developer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
