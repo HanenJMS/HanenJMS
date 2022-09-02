@@ -12,6 +12,7 @@
   - [RPG Combact Architecture](https://github.com/HanenJMS/ProjectRPG)
 - <b>C# (.NET Desktop Applications)</b>
   - [Basic Application](https://github.com/HanenJMS/TheDoNothingProject)
+  - [Calculator](https://github.com/HanenJMS/Calculator)
   
 - 🌱 I’m currently learning SQL, ASP.NET, MVC
 - 👯 I’m looking to collaborate on Game dev, any C# .NET projects
