@@ -1,6 +1,6 @@
 <h1>Jung Sa<br/><a href="https://github.com/HanenJMS">Programmer, and aspiring FullStack Developer, Software Engineer, Game Developer</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>Projects:</h2>
 
 - <b>Design Pattern Practices</b>
   - [Observer Pattern](https://github.com/HanenJMS/ObserverPattern)
