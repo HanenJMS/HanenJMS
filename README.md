@@ -1,7 +1,17 @@
-### Hi there 👋
+<h1>Jung Sa<br/><a href="https://github.com/HanenJMS">Programmer, aspiring FullStack Developer, Software Engineer</a></h1>
 
-<!--
-**HanenJMS/HanenJMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Design Pattern Practices</b>
+  - [Observer Pattern](https://github.com/HanenJMS/ObserverPattern)
+  - [Strategy Pattern](https://github.com/HanenJMS/StrategyPattern)
+  - [State Pattern](https://github.com/HanenJMS/StatePattern)
+- <b>Game Development</b>
+  - [Tower Defense](https://github.com/HanenJMS/RealmRush0.1)
+  - [Platformer](https://github.com/HanenJMS/ProjectBoost)
+  - [RPG Combact Architecture](https://github.com/HanenJMS/ProjectRPG)
+- <b>C# (.NET Desktop Applications)</b>
+  - [Basic Application](https://github.com/HanenJMS/TheDoNothingProject)
 
 Here are some ideas to get you started:
 
