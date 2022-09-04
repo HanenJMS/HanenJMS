@@ -13,7 +13,7 @@
 - <b>C# (.NET Desktop Applications)</b>
   - [Basic Application](https://github.com/HanenJMS/TheDoNothingProject)
   - [Calculator](https://github.com/HanenJMS/Calculator)
-  
+  - [Project: Algo](https://github.com/HanenJMS/Algorithms)
 - 🌱 I’m currently learning SQL, ASP.NET, MVC
 - 👯 I’m looking to collaborate on Game dev, any C# .NET projects
 - 🤔 I’m looking for help with Architecture and algorithms
