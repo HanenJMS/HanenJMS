@@ -11,6 +11,7 @@
   - [Platformer](https://github.com/HanenJMS/ProjectBoost)
   - [RPG Combact Architecture](https://github.com/HanenJMS/ProjectRPG)
 - <b>C# (.NET Desktop Applications)</b>
+  - [Personnel Tracker](https://github.com/HanenJMS/PersonnelTracking)
   - [Basic Application](https://github.com/HanenJMS/TheDoNothingProject)
   - [Calculator](https://github.com/HanenJMS/Calculator)
   - [Project: Algo](https://github.com/HanenJMS/Algorithms)
