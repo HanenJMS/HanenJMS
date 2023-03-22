@@ -10,7 +10,7 @@
   - [Tower Defense](https://github.com/HanenJMS/RealmRush0.1)
   - [Platformer](https://github.com/HanenJMS/ProjectBoost)
   - [RPG Combact Architecture](https://github.com/HanenJMS/ProjectRPG)
-  - <b>Game Development AI</b>
+- <b>Game Development AI</b>
   - [GOAP](https://github.com/HanenJMS/Mini-Economy-Project)
   - [BehaviourTree](https://github.com/HanenJMS/Behavior-Tree-Inquiry)
 - <b>C# (.NET Desktop Applications)</b>
