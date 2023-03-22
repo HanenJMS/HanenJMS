@@ -2,7 +2,7 @@
 
 <h2>Projects:</h2>
 
--<b>Design Patterns</b>
+- <b>Design Patterns</b>
   - [Observer Pattern](https://github.com/HanenJMS/ObserverPattern)
   - [Strategy Pattern](https://github.com/HanenJMS/StrategyPattern)
   - [State Pattern](https://github.com/HanenJMS/StatePattern)
@@ -12,6 +12,7 @@
   - [RPG Combact Architecture](https://github.com/HanenJMS/ProjectRPG)
   - <b>Game Development AI</b>
   - [GOAP](https://github.com/HanenJMS/Mini-Economy-Project)
+  - [BehaviourTree](https://github.com/HanenJMS/Behavior-Tree-Inquiry)
 - <b>C# (.NET Desktop Applications)</b>
   - [Personnel Tracker](https://github.com/HanenJMS/PersonnelTracking)
   - [Basic Application](https://github.com/HanenJMS/TheDoNothingProject)
