@@ -1,7 +1,7 @@
 <h1>Jung Sa<br/><a href="https://github.com/HanenJMS">Programmer, Game Developer</a></h1>
 
 <h2>Projects:</h2>
-- <b>Design Pattern Practices</b>
+-<b>Design Patterns</b>
   - [Observer Pattern](https://github.com/HanenJMS/ObserverPattern)
   - [Strategy Pattern](https://github.com/HanenJMS/StrategyPattern)
   - [State Pattern](https://github.com/HanenJMS/StatePattern)
