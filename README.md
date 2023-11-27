@@ -10,7 +10,7 @@
   - [Tower Defense](https://github.com/HanenJMS/RealmRush0.1)
   - [Platformer](https://github.com/HanenJMS/ProjectBoost)
   - [RPG Combact Architecture](https://github.com/HanenJMS/ProjectRPG)
-  - [Turn Based RPG System (WIP)]((https://github.com/HanenJMS/Turn-Based-RPG))
+  - [Turn Based RPG System (WIP)](https://github.com/HanenJMS/Turn-Based-RPG)
 - <b>Game Development AI</b>
   - [GOAP](https://github.com/HanenJMS/Mini-Economy-Project)
   - [BehaviourTree](https://github.com/HanenJMS/Behavior-Tree-Inquiry)
