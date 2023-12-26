@@ -19,7 +19,7 @@
   - [Basic Application](https://github.com/HanenJMS/TheDoNothingProject)
   - [Calculator](https://github.com/HanenJMS/Calculator)
   - [Project: Algo](https://github.com/HanenJMS/Algorithms)
-  - [Pharmacy Data Matrix Scanner]()
+  - [Pharmacy Data Matrix Scanner](https://github.com/HanenJMS/PharmacyDataMatrixScanner)
 - 🌱 I’m currently learning SQL, ASP.NET, MVC
 - 👯 I’m looking to collaborate on Game dev, any C# .NET projects
 - 🤔 I’m looking for help with Architecture and algorithms
